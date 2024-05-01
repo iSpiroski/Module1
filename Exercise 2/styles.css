@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    }
+    body {
+    font-family: sans-serif;
+    }
+    header {
+    background-color: rgb(108, 182, 231);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    }
+    nav {
+    float: left;
+    background-color: rgba(236, 146, 94, 0.966);
+    width: 25%;
+    height: 720px;
+    padding: 20px;
+    }
+    article {
+    background-color: rgb(134, 136, 136);
+    float: left;
+    width: 75%;
+    padding: 20px;
+    }
+    aside {
+    clear: both;
+    }
+    footer {
+    background: #222;
+    color: #eee;
+    text-align: center;
+    padding: 0.5em;
+    font-size: 0.9em;}
+    img{
+        float: none;
+        width: 300px;
+        height: 350px;
+        object-fit:fill;
+    }
